@@ -24,3 +24,4 @@ export default ({ onSignIn }) => {
 
   return <div ref={ref} />;
 };
+
